@@ -19,5 +19,5 @@ class TextBoxPageLocators:
     '''Кнопка'''
     submit_button_xpath = "/html/body/div[1]/div[2]/div/div/main/div/article/div/form/button"
 
-    '''Элемент дял парсинга'''
+    '''Элемент для парсинга'''
     parsing_text_xpath = '/html/body/div[1]/div[2]/div/div/main/div/article/div/form/ul'
